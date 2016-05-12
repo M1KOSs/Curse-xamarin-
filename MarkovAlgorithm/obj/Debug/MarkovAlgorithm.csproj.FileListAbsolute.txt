@@ -1,0 +1,14 @@
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.dll
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.pdb
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.MarkovAlgorithm.apk
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.MarkovAlgorithm-Signed.apk
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.dll
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.pdb
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\android\bin\MarkovAlgorithm.MarkovAlgorithm.apk
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\res\layout\main.xml
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\res\values\strings.xml
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\res\drawable\icon.png
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\R.cs.flag
+c:\users\александр\documents\visual studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\uploadflags.txt
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\obj\Debug\MarkovAlgorithm.dll.mdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\MarkovAlgorithm\MarkovAlgorithm\bin\Debug\MarkovAlgorithm.dll.mdb
